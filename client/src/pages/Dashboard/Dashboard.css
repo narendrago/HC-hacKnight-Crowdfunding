@@ -1,0 +1,16 @@
+.left{
+    width:50%;
+    height:100%;
+    padding:10px;
+    float:left;
+    }
+    .image
+    {
+        background-image: lavender;
+    }
+    .right{
+    width:50%;
+    height:100%;
+    padding:10px;
+    float:right;
+    }

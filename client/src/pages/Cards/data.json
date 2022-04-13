@@ -1,0 +1,14 @@
+{
+    "card1": {
+      "title": "Card One",
+      "description": "This is card one's description. Straight from JSON file!"
+    },
+    "card2": {
+      "title": "Card Two",
+      "description": "Directly from the JSON file, this is card two's description"
+    },
+    "card3": {
+      "title": "Card Three",
+      "description": "And finally, this is the last cards description!"
+    }
+}
